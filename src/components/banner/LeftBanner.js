@@ -50,7 +50,7 @@ a positive outlook. Motivated, dedicated, and always seeking self-improvement.</
                 </div>
                  <div>
                     <h2 className="text-base uppercase font-titleFont mb-4">
-                        BEST SKILL ON
+                                MY SKILLS
                     </h2>
                     <div className="flex gap-4">
                         <span className="bannerIcon">
